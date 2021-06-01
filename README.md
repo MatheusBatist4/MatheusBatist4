@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/MatheusBatist4/MatheusBatist4/blob/output/github-contribution-grid-snake.svg)
 - 👋 Hi, I’m @MatheusBatist4
 - 👀 I’m interested in back and front end
 - 🌱 I’m currently learning front end
